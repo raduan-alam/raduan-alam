@@ -1,51 +1,63 @@
 # 👋 Hi, I'm Raduan Alam
 
-🎓 Future Data Scientist | Research-Driven ML Explorer | Social Impact Focused 
-I design machine learning projects that explore the **real-world implications of AI** — from how misinformation spreads to how education systems fail silently. I believe the next generation of AI practitioners must not only build models, but also question them.
+I'm an aspiring data scientist and engineer who loves exploring the **infinite potential of data and machine learning**.
 
----
+I enjoy building impactful projects and working with real-world datasets that challenge my thinking and help me grow as a problem solver. Whether it's detecting patterns, making predictions, or improving decisions — I’m always curious to see what data can reveal.
 
-## 💡 Core Themes I Explore
 
-- **AI + Ethics**: Understanding and mitigating algorithmic bias in high-stakes decisions 
-- **ML for Society**: Tackling misinformation, dropout prediction, and systemic inequality 
-- **Explainability > Accuracy**: Making machine learning interpretable and accountable
 
----
+## 🧠 My Interests
 
-## 🧠 Active Research Projects
+I'm deeply interested in **all major fields of data science and machine learning**, including:
 
-🔍 **Fake News Forensics** 
-An NLP-based forensic investigation of how emotionally charged and structurally manipulated content drives misinformation virality during elections.
+- Predictive Modeling
+- Natural Language Processing
+- Computer Vision
+- Recommendation Systems
+- AI Ethics
+- Statistical Analysis
+- Real-world Decision Making
+- And more — always learning, always exploring
 
-🎓 **Dropout Risk XAI** 
-Interpretable decision tree models for early identification of students at risk of dropping out — with fairness audits and visual reasoning paths.
 
-🧪 **Upcoming**: *Model Bias Audit Toolkit* 
-A lightweight diagnostic framework for testing fairness and group-wise performance in scikit-learn classifiers.
 
----
+## 🧪 Featured Projects
 
-## 🛠️ My Learning Stack
+| Project | Description |
+|--------|-------------|
+| [🧠 Fake News Forensics](https://github.com/raduan-alam/fake-news-forensics) | A lightweight, interpretable fake news detection model built from scratch with a focus on statistical features and explainability. |
+| [🎓 Student Dropout Predictor](https://github.com/raduan-alam/student-dropout-prediction) *(in progress)* | A predictive model that identifies students at risk of dropping out using academic, social, and behavioral indicators — built for clarity and impact. |
 
-- Python · pandas · seaborn · matplotlib 
-- scikit-learn · TextBlob · VADER · XGBoost 
-- Colab · Git · Jupyter · Markdown
 
----
 
-## 📌 Featured Repositories
+## 🛠️ Skills
 
-| Repository | Description |
-|------------|-------------|
-| [`fake-news-forensics`](https://github.com/raduan-alam/fake-news-forensics) | A unique take on misinformation: emotional fingerprinting and structure analysis of fake headlines |
-| [`dropout-risk-xai`](https://github.com/raduan-alam/dropout-risk-xai) | Transparent ML for educational outcomes — interpretable modeling of dropout likelihood |
+`Python` • `C` • `C++` • `Pandas` • `Scikit-learn` • `NLP` • `Git` • `Data Visualization` • `Streamlit`
 
----
+Currently diving deeper into:  
+`XGBoost` • `SHAP` • `Model Evaluation Techniques` • `Full-stack ML Deployment` • `Advanced Statistical Thinking`
 
-## 📬 Let's Connect
 
-- 📧 Email: *raduanalam18@gmail.com* 
-- 🧠 Currently building in public, 1 notebook at a time.
 
-> *“In a world racing to build smarter machines, I aim to build wiser ones.”*
+## 📚 Currently Learning
+
+- Designing and deploying real-world ML systems  
+- Building reusable machine learning pipelines  
+- Reading research papers and transforming them into practical tools  
+- Explaining ML models with confidence (metrics, fairness, reasoning)
+
+
+
+## 🚀 Long-Term Goals
+
+- Master the **end-to-end machine learning lifecycle**
+- Build projects that are both technically rigorous and socially impactful  
+- Contribute to open-source data science tools or research  
+- Push the boundaries of what’s possible in **applied AI**
+
+
+
+## 📬 Contact Me
+
+📧 Email: [raduanalam18@gmail.com]  
+🐙 GitHub: [raduan-alam](https://github.com/raduan-alam)
