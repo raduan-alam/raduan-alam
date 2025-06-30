@@ -26,7 +26,7 @@ I'm deeply interested in **all major fields of data science and machine learning
 | Project | Description |
 |--------|-------------|
 | [🧠 Fake News Forensics](https://github.com/raduan-alam/fake-news-forensics) | A lightweight, interpretable fake news detection model built from scratch with a focus on statistical features and explainability. |
-| [🎓Student Dropout Predictor](https://github.com/raduan-alam/student-dropout-predictor) | A high-performance LightGBM model to predict student dropout risk with SHAP explainability.  
+| [🎓 Student Dropout Predictor](https://github.com/raduan-alam/student-dropout-predictor) | A high-performance LightGBM model to predict student dropout risk with SHAP explainability.  
 
 
 
