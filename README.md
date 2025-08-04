@@ -7,7 +7,7 @@ My work sits at the intersection of:
 - 🤖 Robotics & Autonomous Systems  
 - 👁️ Computer Vision & Perception
 
-I care deeply about solving real-world problems with scalable, ethical AI — the kind that drives the future at places like **Tesla**, **OpenAI**, and **DeepMind**. Whether it's designing an autonomous system that navigates the world or teaching a model to understand what it sees, I believe the future belongs to those who build boldly and think clearly.
+I care deeply about solving real-world problems with scalable, ethical AI — the kind that drives the future. Whether it's designing an autonomous system that navigates the world or teaching a model to understand what it sees, I believe the future belongs to those who build boldly and think clearly.
 
 ---
 
